@@ -1,0 +1,16 @@
+---Oppgaver---
+
+Bruk terminalen og gjør følgende:
+
+1. Lag en ny mappe
+2. Gå inn i mappen
+3. Lag en ny python-fil
+4. Finn filen i VS Code og lag et python prorgam som printer "Hei Terminal!"
+5. Vis innholdet i filen i terminalen
+6. Kjør filen i python
+7. Slett filen
+8. Gå ut av mappen
+9. Slett mappen
+10. Rens terminalvinduet
+
+----
