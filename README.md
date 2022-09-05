@@ -5,4 +5,4 @@
 ## Notater
 
 - [terminalen.md](./notater/terminalen.md)
-
+- [UiO: spillteori](https://www.uio.no/studier/emner/matnat/ifi/IN1000/h21/undervisningstilbud/alternativt-oblig-lop/week-4/partest-paradise-hotell.md)
