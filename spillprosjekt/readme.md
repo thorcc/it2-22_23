@@ -55,17 +55,17 @@ class Sporsmaal:
 
 ## Sprint 2 - Koding av klasser og metoder
 
-**Tid:** 10.30 - 11.45  
-**Levering:** Python-filer for klasser
-**Tilbakemelding:** 1 minutt muntlig tilbakemelding
+**Tid:** 10.30 - 11.45   
+**Levering:** Python-filer for klasser  
+**Tilbakemelding:** 1 minutt muntlig tilbakemelding  
 
 1. Lag kode for klasser og metoder
 
 ## Sprint 3 - Brukergrensesnitt
 
 **Tid:** 12.30 - 14.00  
-**Levering:** Python-filer for klasser
-**Tilbakemelding:** Skriftlig tilbakemelding på Teams
+**Levering:** Python-filer for klasser  
+**Tilbakemelding:** Skriftlig tilbakemelding på Teams  
 
 1. Lag brukergrensesnitt for spillet, altså det som vises når brukeren spiller spillet. 
 
