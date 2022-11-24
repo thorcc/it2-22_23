@@ -22,7 +22,7 @@ Prosjektet kommer til å bli vurdert med lav-, middels- eller høy måloppnåels
 ### Runde 1 - Planlegging
 
 **Tid:** 9.15 - 10.15  
-**Levering:** Skjermbilder av klassediagram
+**Levering:** Skjermbilder av klassediagram, frist: 10.15
 
 I denne runden skal du planlegge spillet ditt.
 Følg punktene under i planleggingen.
