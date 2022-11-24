@@ -46,6 +46,9 @@ Følg punktene under i planleggingen.
 ![](klassediagram.png)
 
 
+> Diagrammer kan tegnes for hånd, med [www.diagrams.net](https://www.diagrams.net/), powerpoint eller annet verktøy.
+
+
 ## Runde 2 - Koding av klasser og metoder
 
 **Tid:** 10.30 - 11.45   
